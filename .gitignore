@@ -1,0 +1,18 @@
+# Jupyter / Python
+__pycache__/
+.ipynb_checkpoints/
+
+# Power BI cache
+*.pbix.local
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
